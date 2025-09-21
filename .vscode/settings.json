@@ -1,0 +1,7 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/i18n",
+        "out/Enjoy-linux-x64/locales",
+        "src/renderer/components/messages"
+    ]
+}
