@@ -137,3 +137,6 @@ enjoy/lib/dictionaries
 public/jupyter-notebooks/*.mp3
 
 *.sqlite
+
+.venv3_11
+.python-version

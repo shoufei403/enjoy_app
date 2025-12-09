@@ -88,7 +88,7 @@
     "@types/mark.js": "^8.11.12",
     "@types/mime-types": "^2.1.4",
     "@types/mustache": "^4.2.5",
-    "@types/node": "^22.13.10",
+    "@types/node": "^20.18.0",
     "@types/prop-types": "^15.7.14",
     "@types/rails__actioncable": "^6.1.11",
     "@types/react": "^18.3.18",
@@ -208,5 +208,9 @@
     "sqlite3": "^5.1.7",
     "umzug": "^3.8.2",
     "unzipper": "^0.12.3"
+  },
+  "resolutions": {
+    "@echogarden/wave-codec": "0.3.2",
+    "undici": "5.28.4"
   }
 }
