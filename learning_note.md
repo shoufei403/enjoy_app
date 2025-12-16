@@ -75,10 +75,10 @@ git clone <repository-url>
 yarn install
 
 # 3. 启动开发环境
-yarn enjoy:start
+yarn start
 
 # 4. 构建应用
-yarn enjoy:make
+yarn make
 ```
 
 ### **阶段2: 核心架构理解**
